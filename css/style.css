@@ -61,7 +61,7 @@ a:hover{
 #header {
 	height:115px;
 	width: 100%;
-	background:#5F04B4;
+	background:#4B088A;
 	color:#fff;
 	margin:0;
 	overflow:hidden;
@@ -75,7 +75,7 @@ a:hover{
 
 #title {
 	font-family: 'open_sanssemibold', sans-serif;
-	font-size:20px;
+	font-size:30px;
 	font-weight:bold;
 	text-align:left;
 	white-space: nowrap;  
@@ -86,7 +86,8 @@ a:hover{
 
 #subtitle {
 	font-family: 'open_sansregular', sans-serif;
-	font-size:13px;
+	font-size:15px;
+	font-weight: bold;
 	margin-top:10px;
 	overflow: hidden;
 	font-weight:normal;
