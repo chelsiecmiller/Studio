@@ -182,9 +182,9 @@ a:hover{
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
-.socialIcon-link:before { content: '\e802'; } /* '' */
-.socialIcon-twitter-1:before { content: '\e800'; } /* '' */
-.socialIcon-facebook-squared-1:before { content: '\e801'; } /* '�?' */
+.socialIcon-link:before { content: '\e802'; } /* 'î ‚' */
+.socialIcon-twitter-1:before { content: '\e800'; } /* 'î €' */
+.socialIcon-facebook-squared-1:before { content: '\e801'; } /* 'î ?' */
 
 .shareIcon {
     display: inline-block;
@@ -643,8 +643,8 @@ ul.tilelist .blurb {
 }
 
 .details .pictureFrame {
-	width:200px;
-	height:150px;
+	width:800px;
+	height:275px;
 }
 
 .details img {
