@@ -686,12 +686,12 @@ ul.tilelist .blurb {
 .infoWindowPictureDiv {
 	width: 100%;
 	text-align:center;
-	padding-top:10px;
-	padding-bottom:10px;
+	padding-top:20px;
+	padding-bottom:20px;
 }
 
 .infoWindowPictureDiv img {
-	max-width: 700px;
+	max-width: 250px;
 	max-height: 250px;
 }
 
