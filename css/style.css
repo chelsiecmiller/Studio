@@ -82,6 +82,7 @@ a:hover{
 	overflow: hidden;  
 	text-overflow: ellipsis;
 	-o-text-overflow:ellipsis;
+	color: #444;
 }
 
 #subtitle {
